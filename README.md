@@ -1,8 +1,6 @@
 # -GitHub-
 **Как скачать подпапку из репозитория в GitHub не закачивая целиком весь архив**
 
-https://kinolien.github.io/gitzip/
-
 https://minhaskamal.github.io/DownGit/#/home
 
 https://downgit.github.io/#/home
